@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Loto mais fácil/1.0.0": {
+        "runtime": {
+          "Loto mais fácil.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Loto mais fácil/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

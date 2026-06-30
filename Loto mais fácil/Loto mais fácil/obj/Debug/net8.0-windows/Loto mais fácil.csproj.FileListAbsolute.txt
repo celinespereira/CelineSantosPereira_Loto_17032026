@@ -1,0 +1,75 @@
+C:\Users\user\Desktop\17_03\Loto mais fácil\Loto mais fácil\obj\Debug\net8.0-windows\Loto_mais_fácil.Form1.resources
+C:\Users\user\Desktop\17_03\Loto mais fácil\Loto mais fácil\obj\Debug\net8.0-windows\Loto_mais_fácil.Properties.Resources.resources
+C:\Users\user\Desktop\17_03\Loto mais fácil\Loto mais fácil\obj\Debug\net8.0-windows\Loto mais fácil.csproj.GenerateResource.cache
+C:\Users\user\Desktop\17_03\Loto mais fácil\Loto mais fácil\obj\Debug\net8.0-windows\Loto mais fácil.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\17_03\Loto mais fácil\Loto mais fácil\obj\Debug\net8.0-windows\Loto mais fácil.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\17_03\Loto mais fácil\Loto mais fácil\obj\Debug\net8.0-windows\Loto mais fácil.AssemblyInfo.cs
+C:\Users\user\Desktop\17_03\Loto mais fácil\Loto mais fácil\obj\Debug\net8.0-windows\Loto mais fácil.csproj.CoreCompileInputs.cache
+D:\17_03\Loto mais fácil\Loto mais fácil\obj\Debug\net8.0-windows\Loto_mais_fácil.Form1.resources
+D:\17_03\Loto mais fácil\Loto mais fácil\obj\Debug\net8.0-windows\Loto_mais_fácil.Properties.Resources.resources
+D:\17_03\Loto mais fácil\Loto mais fácil\obj\Debug\net8.0-windows\Loto mais fácil.csproj.GenerateResource.cache
+D:\17_03\Loto mais fácil\Loto mais fácil\obj\Debug\net8.0-windows\Loto mais fácil.GeneratedMSBuildEditorConfig.editorconfig
+D:\17_03\Loto mais fácil\Loto mais fácil\obj\Debug\net8.0-windows\Loto mais fácil.AssemblyInfoInputs.cache
+D:\17_03\Loto mais fácil\Loto mais fácil\obj\Debug\net8.0-windows\Loto mais fácil.AssemblyInfo.cs
+D:\17_03\Loto mais fácil\Loto mais fácil\obj\Debug\net8.0-windows\Loto mais fácil.csproj.CoreCompileInputs.cache
+D:\17_03\Loto mais fácil\Loto mais fácil\bin\Debug\net8.0-windows\Loto mais fácil.exe
+D:\17_03\Loto mais fácil\Loto mais fácil\bin\Debug\net8.0-windows\Loto mais fácil.deps.json
+D:\17_03\Loto mais fácil\Loto mais fácil\bin\Debug\net8.0-windows\Loto mais fácil.runtimeconfig.json
+D:\17_03\Loto mais fácil\Loto mais fácil\bin\Debug\net8.0-windows\Loto mais fácil.dll
+D:\17_03\Loto mais fácil\Loto mais fácil\bin\Debug\net8.0-windows\Loto mais fácil.pdb
+D:\17_03\Loto mais fácil\Loto mais fácil\obj\Debug\net8.0-windows\Loto mais fácil.dll
+D:\17_03\Loto mais fácil\Loto mais fácil\obj\Debug\net8.0-windows\refint\Loto mais fácil.dll
+D:\17_03\Loto mais fácil\Loto mais fácil\obj\Debug\net8.0-windows\Loto mais fácil.pdb
+D:\17_03\Loto mais fácil\Loto mais fácil\obj\Debug\net8.0-windows\Loto mais fácil.genruntimeconfig.cache
+D:\17_03\Loto mais fácil\Loto mais fácil\obj\Debug\net8.0-windows\ref\Loto mais fácil.dll
+E:\2MD2\DESENVOLVIMENTO DE SISTEMAS\17_03\Loto mais fácil\Loto mais fácil\obj\Debug\net8.0-windows\Loto_mais_fácil.Form1.resources
+E:\2MD2\DESENVOLVIMENTO DE SISTEMAS\17_03\Loto mais fácil\Loto mais fácil\obj\Debug\net8.0-windows\Loto_mais_fácil.Properties.Resources.resources
+E:\2MD2\DESENVOLVIMENTO DE SISTEMAS\17_03\Loto mais fácil\Loto mais fácil\obj\Debug\net8.0-windows\Loto mais fácil.csproj.GenerateResource.cache
+E:\2MD2\DESENVOLVIMENTO DE SISTEMAS\17_03\Loto mais fácil\Loto mais fácil\obj\Debug\net8.0-windows\Loto mais fácil.GeneratedMSBuildEditorConfig.editorconfig
+E:\2MD2\DESENVOLVIMENTO DE SISTEMAS\17_03\Loto mais fácil\Loto mais fácil\obj\Debug\net8.0-windows\Loto mais fácil.AssemblyInfoInputs.cache
+E:\2MD2\DESENVOLVIMENTO DE SISTEMAS\17_03\Loto mais fácil\Loto mais fácil\obj\Debug\net8.0-windows\Loto mais fácil.AssemblyInfo.cs
+E:\2MD2\DESENVOLVIMENTO DE SISTEMAS\17_03\Loto mais fácil\Loto mais fácil\obj\Debug\net8.0-windows\Loto mais fácil.csproj.CoreCompileInputs.cache
+E:\2MD2\DESENVOLVIMENTO DE SISTEMAS\17_03\Loto mais fácil\Loto mais fácil\obj\Debug\net8.0-windows\Loto mais fácil.dll
+E:\2MD2\DESENVOLVIMENTO DE SISTEMAS\17_03\Loto mais fácil\Loto mais fácil\obj\Debug\net8.0-windows\refint\Loto mais fácil.dll
+E:\2MD2\DESENVOLVIMENTO DE SISTEMAS\17_03\Loto mais fácil\Loto mais fácil\obj\Debug\net8.0-windows\Loto mais fácil.pdb
+E:\2MD2\DESENVOLVIMENTO DE SISTEMAS\17_03\Loto mais fácil\Loto mais fácil\bin\Debug\net8.0-windows\Loto mais fácil.exe
+E:\2MD2\DESENVOLVIMENTO DE SISTEMAS\17_03\Loto mais fácil\Loto mais fácil\bin\Debug\net8.0-windows\Loto mais fácil.deps.json
+E:\2MD2\DESENVOLVIMENTO DE SISTEMAS\17_03\Loto mais fácil\Loto mais fácil\bin\Debug\net8.0-windows\Loto mais fácil.runtimeconfig.json
+E:\2MD2\DESENVOLVIMENTO DE SISTEMAS\17_03\Loto mais fácil\Loto mais fácil\bin\Debug\net8.0-windows\Loto mais fácil.dll
+E:\2MD2\DESENVOLVIMENTO DE SISTEMAS\17_03\Loto mais fácil\Loto mais fácil\bin\Debug\net8.0-windows\Loto mais fácil.pdb
+E:\2MD2\DESENVOLVIMENTO DE SISTEMAS\17_03\Loto mais fácil\Loto mais fácil\obj\Debug\net8.0-windows\Loto mais fácil.genruntimeconfig.cache
+E:\2MD2\DESENVOLVIMENTO DE SISTEMAS\17_03\Loto mais fácil\Loto mais fácil\obj\Debug\net8.0-windows\ref\Loto mais fácil.dll
+G:\Escola\2MD2\DESENVOLVIMENTO DE SISTEMAS\17_03\Loto mais fácil\Loto mais fácil\bin\Debug\net8.0-windows\Loto mais fácil.exe
+G:\Escola\2MD2\DESENVOLVIMENTO DE SISTEMAS\17_03\Loto mais fácil\Loto mais fácil\bin\Debug\net8.0-windows\Loto mais fácil.deps.json
+G:\Escola\2MD2\DESENVOLVIMENTO DE SISTEMAS\17_03\Loto mais fácil\Loto mais fácil\bin\Debug\net8.0-windows\Loto mais fácil.runtimeconfig.json
+G:\Escola\2MD2\DESENVOLVIMENTO DE SISTEMAS\17_03\Loto mais fácil\Loto mais fácil\bin\Debug\net8.0-windows\Loto mais fácil.dll
+G:\Escola\2MD2\DESENVOLVIMENTO DE SISTEMAS\17_03\Loto mais fácil\Loto mais fácil\bin\Debug\net8.0-windows\Loto mais fácil.pdb
+G:\Escola\2MD2\DESENVOLVIMENTO DE SISTEMAS\17_03\Loto mais fácil\Loto mais fácil\obj\Debug\net8.0-windows\Loto_mais_fácil.Form1.resources
+G:\Escola\2MD2\DESENVOLVIMENTO DE SISTEMAS\17_03\Loto mais fácil\Loto mais fácil\obj\Debug\net8.0-windows\Loto_mais_fácil.Properties.Resources.resources
+G:\Escola\2MD2\DESENVOLVIMENTO DE SISTEMAS\17_03\Loto mais fácil\Loto mais fácil\obj\Debug\net8.0-windows\Loto mais fácil.csproj.GenerateResource.cache
+G:\Escola\2MD2\DESENVOLVIMENTO DE SISTEMAS\17_03\Loto mais fácil\Loto mais fácil\obj\Debug\net8.0-windows\Loto mais fácil.GeneratedMSBuildEditorConfig.editorconfig
+G:\Escola\2MD2\DESENVOLVIMENTO DE SISTEMAS\17_03\Loto mais fácil\Loto mais fácil\obj\Debug\net8.0-windows\Loto mais fácil.AssemblyInfoInputs.cache
+G:\Escola\2MD2\DESENVOLVIMENTO DE SISTEMAS\17_03\Loto mais fácil\Loto mais fácil\obj\Debug\net8.0-windows\Loto mais fácil.AssemblyInfo.cs
+G:\Escola\2MD2\DESENVOLVIMENTO DE SISTEMAS\17_03\Loto mais fácil\Loto mais fácil\obj\Debug\net8.0-windows\Loto mais fácil.csproj.CoreCompileInputs.cache
+G:\Escola\2MD2\DESENVOLVIMENTO DE SISTEMAS\17_03\Loto mais fácil\Loto mais fácil\obj\Debug\net8.0-windows\Loto mais fácil.dll
+G:\Escola\2MD2\DESENVOLVIMENTO DE SISTEMAS\17_03\Loto mais fácil\Loto mais fácil\obj\Debug\net8.0-windows\refint\Loto mais fácil.dll
+G:\Escola\2MD2\DESENVOLVIMENTO DE SISTEMAS\17_03\Loto mais fácil\Loto mais fácil\obj\Debug\net8.0-windows\Loto mais fácil.pdb
+G:\Escola\2MD2\DESENVOLVIMENTO DE SISTEMAS\17_03\Loto mais fácil\Loto mais fácil\obj\Debug\net8.0-windows\Loto mais fácil.genruntimeconfig.cache
+G:\Escola\2MD2\DESENVOLVIMENTO DE SISTEMAS\17_03\Loto mais fácil\Loto mais fácil\obj\Debug\net8.0-windows\ref\Loto mais fácil.dll
+E:\Escola\2MD2\DESENVOLVIMENTO DE SISTEMAS\17_03\Loto mais fácil\Loto mais fácil\bin\Debug\net8.0-windows\Loto mais fácil.exe
+E:\Escola\2MD2\DESENVOLVIMENTO DE SISTEMAS\17_03\Loto mais fácil\Loto mais fácil\bin\Debug\net8.0-windows\Loto mais fácil.deps.json
+E:\Escola\2MD2\DESENVOLVIMENTO DE SISTEMAS\17_03\Loto mais fácil\Loto mais fácil\bin\Debug\net8.0-windows\Loto mais fácil.runtimeconfig.json
+E:\Escola\2MD2\DESENVOLVIMENTO DE SISTEMAS\17_03\Loto mais fácil\Loto mais fácil\bin\Debug\net8.0-windows\Loto mais fácil.dll
+E:\Escola\2MD2\DESENVOLVIMENTO DE SISTEMAS\17_03\Loto mais fácil\Loto mais fácil\bin\Debug\net8.0-windows\Loto mais fácil.pdb
+E:\Escola\2MD2\DESENVOLVIMENTO DE SISTEMAS\17_03\Loto mais fácil\Loto mais fácil\obj\Debug\net8.0-windows\Loto_mais_fácil.Form1.resources
+E:\Escola\2MD2\DESENVOLVIMENTO DE SISTEMAS\17_03\Loto mais fácil\Loto mais fácil\obj\Debug\net8.0-windows\Loto_mais_fácil.Properties.Resources.resources
+E:\Escola\2MD2\DESENVOLVIMENTO DE SISTEMAS\17_03\Loto mais fácil\Loto mais fácil\obj\Debug\net8.0-windows\Loto mais fácil.csproj.GenerateResource.cache
+E:\Escola\2MD2\DESENVOLVIMENTO DE SISTEMAS\17_03\Loto mais fácil\Loto mais fácil\obj\Debug\net8.0-windows\Loto mais fácil.GeneratedMSBuildEditorConfig.editorconfig
+E:\Escola\2MD2\DESENVOLVIMENTO DE SISTEMAS\17_03\Loto mais fácil\Loto mais fácil\obj\Debug\net8.0-windows\Loto mais fácil.AssemblyInfoInputs.cache
+E:\Escola\2MD2\DESENVOLVIMENTO DE SISTEMAS\17_03\Loto mais fácil\Loto mais fácil\obj\Debug\net8.0-windows\Loto mais fácil.AssemblyInfo.cs
+E:\Escola\2MD2\DESENVOLVIMENTO DE SISTEMAS\17_03\Loto mais fácil\Loto mais fácil\obj\Debug\net8.0-windows\Loto mais fácil.csproj.CoreCompileInputs.cache
+E:\Escola\2MD2\DESENVOLVIMENTO DE SISTEMAS\17_03\Loto mais fácil\Loto mais fácil\obj\Debug\net8.0-windows\Loto mais fácil.dll
+E:\Escola\2MD2\DESENVOLVIMENTO DE SISTEMAS\17_03\Loto mais fácil\Loto mais fácil\obj\Debug\net8.0-windows\refint\Loto mais fácil.dll
+E:\Escola\2MD2\DESENVOLVIMENTO DE SISTEMAS\17_03\Loto mais fácil\Loto mais fácil\obj\Debug\net8.0-windows\Loto mais fácil.pdb
+E:\Escola\2MD2\DESENVOLVIMENTO DE SISTEMAS\17_03\Loto mais fácil\Loto mais fácil\obj\Debug\net8.0-windows\Loto mais fácil.genruntimeconfig.cache
+E:\Escola\2MD2\DESENVOLVIMENTO DE SISTEMAS\17_03\Loto mais fácil\Loto mais fácil\obj\Debug\net8.0-windows\ref\Loto mais fácil.dll
